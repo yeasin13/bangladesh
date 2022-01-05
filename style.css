@@ -1,0 +1,87 @@
+body {
+  margin: 25px 10px;
+  padding: 22px 23px;
+}
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+.top-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flag img {
+  width: 400px;
+}
+.left-sdie {
+  width: 40%;
+}
+.details {
+  padding: 20px 70px;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, green, rgb(75, 236, 12), green);
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  border: none;
+  margin-top: 15px;
+}
+.all {
+  background-image: url(https://www.slon.pics/file/2016/12/Flag-of-Bangladesh-in-the-corner-on-white-background.-Isolated-contains-clipping-path-19526.jpg);
+  background-repeat: repeat-y;
+  backface-visibility: visible;
+}
+.divission {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  padding: 50px;
+}
+.dhaka {
+  width: 90%;
+  /* border: 1px solid gray; */
+
+  border-radius: 5px;
+  box-shadow: 4px 4px 12px gray;
+}
+.photo img {
+  width: 100%;
+  border-style: solid;
+  border-radius: 20px;
+}
+.second-section {
+  padding: 10px;
+}
+.all-divisions {
+  display: flex;
+  /* align-items: space-around; */
+  justify-content: space-around;
+}
+.ri {
+  font-style: italic;
+  font-size: 50px;
+  text-align: right;
+  margin-right: 15px;
+}
+.description {
+  text-align: left;
+  background-color: white;
+  margin: 20px;
+  border-style: solid;
+  border-color: red;
+  border-width: thick;
+}
+.div-button {
+  padding: 10px 30px;
+  border: solid 10px 30px;
+  background-color: aqua;
+  font: 16px;
+}
+
+.footer-content {
+  margin-top: 50px;
+}
+.footer-content {
+  text-align: center;
+}
